@@ -1,0 +1,2 @@
+# Qt_ChineseChess_Internet
+一款基于Qt开发的网络版中国象棋对战平台
